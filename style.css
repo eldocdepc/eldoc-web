@@ -9,7 +9,7 @@ body, html {
   text-align: center;
 }
 .parallax1 {
-  background: url(img/servicios.jpg);
+  background: url(servicios.jpg);
   min-height: 60%;
 }
 .parallax1 {
